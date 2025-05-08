@@ -1,0 +1,11 @@
+.form-content a {
+  visibility: hidden;
+}
+
+.form-content.error input {
+  border-color: #fa003f;
+}
+.form-content.error a {
+  color: #fa003f;
+  visibility: initial;
+}

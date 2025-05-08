@@ -1,49 +1,58 @@
-# 🧾 Formulário com Validações em JavaScript
+# 📝 Formulário com Validação em JavaScript
 
-Projeto em desenvolvimento de um formulário com validações personalizadas usando **JavaScript puro**. O objetivo é criar uma interface acessível e funcional que valide campos de entrada em tempo real, proporcionando uma melhor experiência para o usuário.
-
----
-
-## 📌 Descrição
-
-Este repositório faz parte dos meus estudos de **JavaScript aplicado ao front-end**, com foco na manipulação do DOM, escuta de eventos e validação de campos como nome, e-mail, senha e confirmação de senha. O layout é construído com **HTML5** e **CSS3**, enquanto a lógica de validação é feita com **JavaScript**.
+Formulário moderno com **validações dinâmicas em JavaScript puro**, focado no treinamento de manipulação do DOM e boas práticas de UI/UX.  
+Os campos validados incluem: **nome de usuário**, **e-mail**, **senha** e **confirmação de senha**.
 
 ---
 
-## ⚙️ Futuras Funcionalidades
+## 📌 Sobre o Projeto
 
-- Validação em tempo real dos campos do formulário  
-- Feedback visual de erros e campos válidos  
-- Exibição de mensagens personalizadas para cada tipo de erro  
-- Estrutura preparada para adaptação responsiva
+Este projeto foi desenvolvido como exercício para reforçar os conhecimentos de:
+
+- **Validação de formulários**
+- **Eventos no DOM**
+- **Feedback visual com classes dinâmicas**
+
+Ao submeter o formulário, o JavaScript impede o envio e valida os campos individualmente, exibindo mensagens específicas embaixo de cada input.
+
+---
+## ⚙️ Funcionalidades
+
+✔️ Validação de campos obrigatórios  
+✔️ Verificação de tamanho mínimo da senha  
+✔️ Confirmação de senha idêntica  
+✔️ Exibição de mensagens de erro personalizadas  
+✔️ Estilização automática de campos com erro  
 
 ---
 
-## 🛠️ Tecnologias
-
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla)
-
----
-
-## 🚧 Status
-
-🔧 Projeto em andamento — novas funcionalidades e melhorias estão sendo desenvolvidas!
+## 🛠️ Tecnologias Utilizadas
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
 
 ---
 
-## 💡 Objetivo
+## 🖥️ Resultado Visual
 
-Praticar conceitos essenciais de **JavaScript para formulários**, como:
+### 📱 Campos Vazios  
+<img src="./resultados/campos-vazios.png" style="display: block; margin: auto;">
 
-- Manipulação de eventos (`oninput`, `onsubmit`, etc.)  
-- Uso de métodos nativos como `.trim()`, `.test()`, `.value`, entre outros  
-- Boas práticas de UX ao exibir erros e validar campos
+### 🔒 Senha com Menos de 8 Caracteres  
+<img src="./resultados/senha-pequena.png" style="display: block; margin: auto;">
+
+### ❌ Senhas Diferentes  
+<img src="./resultados/senhas-diferentes.png" style="display: block; margin: auto;">
+
+---
+
+## 🌐 Acesse o Projeto
+
+🔗 [**Clique aqui para visualizar no GitHub Pages**](https://inocenciooo.github.io/formulario-simples)
 
 ---
 
 ## 💬 Contribuições
 
-Este repositório é parte do meu processo de aprendizado. Se você tiver sugestões, feedback ou quiser contribuir, fique à vontade para abrir uma *issue* ou um *pull request*!
-
+Este projeto faz parte da minha jornada de aprendizado em **JavaScript e validação de formulários**.  
+Fique à vontade para abrir uma issue, sugerir melhorias ou contribuir com o código! 🚀

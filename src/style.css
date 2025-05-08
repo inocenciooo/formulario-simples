@@ -14,6 +14,8 @@ body {
   align-items: center;
   background-color: #131213;
   font-family: "Poppins", sans-serif;
+  flex-direction: column;
+  padding: 0 20px;
 }
 button {
   all: unset;
@@ -31,7 +33,7 @@ button {
 }
 .header {
   text-align: center;
-  background-color: #7bb4fc;
+  background-color: #693efe;
   color: #fafafa;
   padding: 20px;
 }
@@ -63,7 +65,7 @@ button {
 
 
 .hero button {
-  background-color: #01a4d6;
+  background-color: #693efe;
   width: 100%;
   text-align: center;
   color: #fafafa;
@@ -71,4 +73,20 @@ button {
   border-radius: 14px;
   padding: 10px;
   margin-top: 20px;
+  transition: 0.3s ease;
+}
+.hero button:hover{
+  background-color: #6E00B3;
+}
+
+.attribution {
+  font-size: 14px;
+  text-align: center;
+  font-weight: 500;
+  color: white;
+}
+.attribution a {
+  color: var(--Bright-blue);
+  transition: 0.3s ease;
+  color: #693efe;
 }
