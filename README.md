@@ -32,13 +32,12 @@ Ao submeter o formulário, o JavaScript impede o envio e valida os campos indivi
 - **JavaScript (Vanilla)**
 ---
 
-## 🖥️ Resultado Visual
 
 ### 📱 Campos Vazios  
-<img src="./resultados/campos-vazios.png" style="display: block; margin: auto;">
+<img src="./src/resultados/campos-vazios.png" style="display: block; margin: auto;">
 
 ### 🔒 Senha com Menos de 8 Caracteres e Senhas diferentes
-<img src="./resultados/senha-pequena-diferente.png" style="display: block; margin: auto;">
+<img src="./src/resultados/senha-pequena-diferente.png" style="display: block; margin: auto;">
 
 ---
 ## 🌐 Acesse o Projeto
