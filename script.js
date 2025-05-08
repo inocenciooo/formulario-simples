@@ -32,9 +32,9 @@ function emailCheck() {
 
 function passwordCheck() {
   if (password.value === "") {
-    error(password, "O campo de senha não pode ficar em branco.");
+    error(password, "Informe uma senha para continuar.");
   } else if (password.value.length < 8) {
-    error(password, "A senha deve conter pelo menos 8 caracteres.");
+    error(password, "Use pelo menos 8 caracteres.");
   } else {
     password.parentElement.className = "form-content";
   }

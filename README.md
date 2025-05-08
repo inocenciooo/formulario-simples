@@ -42,10 +42,9 @@ Ao submeter o formulário, o JavaScript impede o envio e valida os campos indivi
 <img src="./resultados/senha-pequena.png" style="display: block; margin: auto;">
 
 ### ❌ Senhas Diferentes  
-<img src="./resultados/senhas-diferentes.png" style="display: block; margin: auto;">
+<img src="./resultados/senhas-diferentes2.png" style="display: block; margin: auto;">
 
 ---
-
 ## 🌐 Acesse o Projeto
 
 🔗 [**Clique aqui para visualizar no GitHub Pages**](https://inocenciooo.github.io/formulario-simples)
