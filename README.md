@@ -1,6 +1,6 @@
 # 📝 Formulário com Validação em JavaScript
 
-Formulário moderno com **validações dinâmicas em JavaScript puro**, focado no treinamento de manipulação do DOM e boas práticas de UI/UX.  
+Formulário moderno com **validações dinâmicas em JavaScript puro**, focado no treinamento de manipulação do DOM.  
 Os campos validados incluem: **nome de usuário**, **e-mail**, **senha** e **confirmação de senha**.
 
 ---
@@ -30,7 +30,6 @@ Ao submeter o formulário, o JavaScript impede o envio e valida os campos indivi
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-
 ---
 
 ## 🖥️ Resultado Visual
@@ -38,11 +37,8 @@ Ao submeter o formulário, o JavaScript impede o envio e valida os campos indivi
 ### 📱 Campos Vazios  
 <img src="./resultados/campos-vazios.png" style="display: block; margin: auto;">
 
-### 🔒 Senha com Menos de 8 Caracteres  
-<img src="./resultados/senha-pequena.png" style="display: block; margin: auto;">
-
-### ❌ Senhas Diferentes  
-<img src="./resultados/senhas-diferentes2.png" style="display: block; margin: auto;">
+### 🔒 Senha com Menos de 8 Caracteres e Senhas diferentes
+<img src="./resultados/senha-pequena-diferente.png" style="display: block; margin: auto;">
 
 ---
 ## 🌐 Acesse o Projeto
